@@ -1,6 +1,8 @@
-# OOP Assignment #1
+# OOP Assignment #2
 
-In this assignment we need to create two basic classes: 
+This assignment extends OOP Assignemt #1.
+
+In this assignment we need to create two classes: 
 * Polynomial
 * Rational
 
@@ -11,6 +13,12 @@ Instructions:
 * A Polynomial's degree can not be changed after initialization, therefor it will be a const variable.
 * Use reference(&) and const syntax where neccesery.
 * Rational will be represented as two Polynomial - Numerator and Denominator.
+* You are required to override to following operators:
+  - "*"
+  - "+"
+  - "-"
+  - "[]"
+  - "="
 
 
 Results should be match to the results in the result.txt file
