@@ -22,7 +22,7 @@ We would see diffrences by given form and given paramaters at a specific graph.
 All supported sorts will be run with given paramaters and then a comparing graph will apear where x axis is the algorithm and y axis is number of actions (comparations/ swaps).
 
 ## Adding another sorting algorithm
-First, Add a new class that extends the class **SortingAlgorithm**.
+First, Add a new class that extends the class **SortingAlgorithm**.    
 Second, Implement the abstract function **Sort**.  
 Third, Add an instance of the new class at **Form1** at lin **84**.
 
