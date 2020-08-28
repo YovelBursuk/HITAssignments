@@ -5,6 +5,8 @@ This project is all about comparing different sorting algorithms.
 
 We would see diffrences by given form and given paramaters at a specific graph.
 
+![Example](./graph.png)
+
 ## How to use
 1. Run project
 2. Select number of elements of the array
